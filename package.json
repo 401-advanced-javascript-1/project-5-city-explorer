@@ -1,0 +1,43 @@
+{
+  "name": "project-5-city-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-1/project-5-city-explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-1/project-5-city-explorer/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-1/project-5-city-explorer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "jquery": "^3.4.0",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.6",
+    "react-dom": "16.6.3",
+    "react-jsonschema-form": "1.0.6",
+    "react-redux": "5.1.1",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.1.1",
+    "react-styleguidist": "^9.0.8",
+    "react-test-renderer": "16.6.3",
+    "redux": "4.0.1",
+    "superagent": "4.0.0-beta.5"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
