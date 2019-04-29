@@ -1,22 +1,13 @@
 # JS401 - Project 5 - City Explorer
 ## Author: Cory Henderson
-This lab converts the front end to an existing codebase written in JS and jQuery to a React based application.
+This lab converts the front end to an existing codebase written in JS and jQuery to a React based application. The application allows cities to be searched for resources and activities.
 
 ## Links and Resources
-- [Github](https://github.com/401-advanced-javascript-1/lab-27-reactTesting)
-- [AWS Bucket Deploy](http://js401-lab-27.s3-website-us-west-2.amazonaws.com/)
-- [Netlify Deploy](https://competent-thompson-76669b.netlify.com/)
-- [AWS Pipeline Deploy](https://js401lab27-lab27reacttestingbucket-tw3imeertmjl.s3-us-west-2.amazonaws.com/index.html)
-- [Travis](https://www.travis-ci.com/401-advanced-javascript-1/lab-27-reactTesting)
+- [Github](https://github.com/401-advanced-javascript-1/project-5-city-explorer/tree/submission)
 
 ## Modules
-- app.js: contains component modules for header, footer, and counter.
-- index.js: serves app.js to the root in the index.html
-- index.html: renders the served react files
-
-## Tests
-- Testing was performed on the counter component module. These were run using the React test renderer.
-
-# UML
-![alt](https://github.com/401-advanced-javascript-1/lab-27-reactTesting/blob/master/img/lab-27-uml.JPG)
-
+- components: this folder contains a collection of components used to recreate the front end page
+- index.js: this is where components of the React application are pushed into the HTML file root.
+- index.html: renders the front end
+- app.js: this is where the major components are organized and pushed to index.js
+- design.scss: this file contains all the design CSS.
