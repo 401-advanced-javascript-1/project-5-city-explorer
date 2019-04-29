@@ -1,1 +1,1 @@
-# project-5-city-explorer
+# JS401 - Project 5 - City Explorer
